@@ -26,8 +26,8 @@ public class Bootcamp {
         return descricasao;
     }
 
-    public void setDescricasao(String descricasao) {
-        this.descricasao = descricasao;
+    public void setDescricao(String descricao) {
+        this.descricasao = descricao;
     }
 
     public LocalDate getDataInicial() {
