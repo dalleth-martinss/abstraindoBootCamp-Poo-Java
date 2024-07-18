@@ -3,11 +3,11 @@
 
 Este projeto simula um ambiente de bootcamp para desenvolvedores, onde eles podem se matricular em cursos, acompanhar seu progresso e visualizar os cursos concluídos.
 
-## Funcionalidades ⚙️
+## Funcionalidades ⚙️👩🏻‍💻
 
-- Matrícula em cursos
-- Acompanhamento do XP de evolução
-- Visualização de cursos finalizados
+- Matrícula em cursos;
+- Acompanhamento do XP de evolução;
+- Visualização de cursos finalizados;
 
 ## Tecnologias Utilizadas 🛠️👩🏻‍💻
 
@@ -27,7 +27,7 @@ Este projeto simula um ambiente de bootcamp para desenvolvedores, onde eles pode
 
 Contribuições são sempre bem-vindas! Para contribuir, por favor, faça um fork do repositório e crie um Pull Request com suas alterações.
 
-## Licença📌
+## Licença📌👩🏻‍💻
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://opensource.org/license/MIT) para mais detalhes.
 

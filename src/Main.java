@@ -16,6 +16,11 @@ public class Main {
         curso2.setDescricao("Descrição: curso C# ");
         curso2.setCargaHoraria(45);
 
+        Curso curso3 = new Curso();
+        curso2.setTitulo("Curso de JavaScript ");
+        curso2.setDescricao("Descrição: curso Js ");
+        curso2.setCargaHoraria(50);
+
         Mentoria mentoria = new Mentoria();
         mentoria.setTitulo("Mentoria Individual");
         mentoria.setDescricao("Curso intensivo individual");
@@ -28,6 +33,7 @@ public class Main {
         bootcamp.setDescricao("Descrição: Mergulhando no mundo do Java");
         bootcamp.getConteudos().add(curso1);
         bootcamp.getConteudos().add(curso2);
+        bootcamp.getConteudos().add(curso3);
         bootcamp.getConteudos().add(mentoria);
 
         System.out.println("--");
