@@ -19,7 +19,7 @@ Este projeto simula um ambiente de bootcamp para desenvolvedores, onde eles pode
 ## Como usar  ❤️😎
 
 1. Clone o repositório para sua máquina local.
-2. Abra o projeto no VScode.
+2. Abra o projeto no VScode ou qualquer outra editor de codigo.
 3. Execute o arquivo principal para iniciar a aplicação.
 4. Utilize os métodos disponíveis para listar e ordenar as pessoas cadastradas.
 
